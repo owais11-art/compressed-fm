@@ -57,7 +57,7 @@
                 overflow: hidden;
                 text-overflow: ellipsis;
                 // white-space: nowrap;
-                flex-grow: 1;
+                // flex-grow: 1;
             }
             @media(max-width: 1000px){
                 font-size: 12px;
